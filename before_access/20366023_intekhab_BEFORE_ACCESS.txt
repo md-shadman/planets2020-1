@@ -1,3 +1,4 @@
 username: curiousquantum
 Name: Md Intekhabul Hafiz
 ID: 20366023
+email: intekhabul.hafiz@g.bracu.ac.bd
